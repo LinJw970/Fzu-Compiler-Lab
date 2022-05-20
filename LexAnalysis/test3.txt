@@ -1,0 +1,17 @@
+int main(){
+    int a0123_q, a; //注释
+    switch(a){ 
+        case 10:
+            printf(10);
+        case 15:
+            printf(15);
+        default:
+            switch (a) {
+                case 20:
+                    printf(20);
+                default:
+                    printf(a);
+            }
+    };
+    return 0;
+}
