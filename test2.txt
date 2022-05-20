@@ -1,9 +1,0 @@
-for(int i=0;i<n;i++){                      //注释
-    m+=i;                   //注释
-    while(1){                     /注释
-        if(m>=3.1415926535) break;                  //注释
-        else continue;                        //注释
-        if(m==9.0) scanf("%d",&m); 
-    }
-    return 0;         /注释
-}
