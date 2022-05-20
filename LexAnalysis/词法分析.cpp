@@ -9,7 +9,7 @@ using namespace std;
 bool isKey(string s){
     //关键字数组
     string keyArray[21] = {"int","char","string","bool","float","double","float","true","false","return",
-                        "if","else","while","for","default","default","do","public","static","switch"};
+                        "if","else","while","for","default","case","do","public","static","switch"};
     //与当前字符串一一对比
     for(int i=0;i<21;i++){
         if(keyArray[i] == s){
@@ -229,7 +229,5 @@ int main( )
     infile.close();
     //以 （单词类编码，值） 输出结果
     for(int i=0;i<resultNum;i++) cout<< resultArray[i] <<endl;
-
   	return 0;
 }
-
