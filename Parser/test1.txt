@@ -1,0 +1,7 @@
+#include <iostream>
+int main(){
+    int aa;
+    int bbac;
+    aa=3.1415926+123;
+    return 0;
+}

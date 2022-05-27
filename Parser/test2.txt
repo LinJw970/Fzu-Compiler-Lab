@@ -1,0 +1,17 @@
+#include <iostream>
+int main(){
+    int aa;
+    int bbac;
+    while(aa){
+        int abbbb123;
+        int abb2a;
+        abbbb123=abb2a+3.1415926;
+        while(1){
+            aa=123+2.71828;
+        }
+    }
+    while(1){
+        bbac=aa+1212;
+    }
+    return 1;
+}

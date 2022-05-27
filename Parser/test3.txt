@@ -1,0 +1,18 @@
+#include <iostream>
+int main(){
+    int a0123_q,a,b; //注释
+    a=0;
+    if(a){ 
+        int abbbb123;
+        int abb2a;
+        abbbb123=abb2a+3.1415926;
+        while(1){
+            aa=123+2.71828;
+        }
+    }else{
+        int abbbb123;
+        int abb2a;
+        abbbb123=1+2;
+    }
+    return 0;
+}
